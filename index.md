@@ -13,3 +13,6 @@ metadata:
 spec:
 ```
 
+- [ ] this is optional
+- [x] you have successfull completed this
+- [ ] when done let me know
